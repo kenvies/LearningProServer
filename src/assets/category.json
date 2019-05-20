@@ -1,27 +1,27 @@
 [
   {
     "id":1,
-    "name":"Android",
-    "icon":""
+    "value":"Android",
+    "image":""
   },
   {
     "id":2,
-    "name":"iOS",
-    "icon":""
+    "value":"iOS",
+    "image":""
   },
   {
     "id":3,
-    "name":"React",
-    "icon":""
+    "value":"React",
+    "image":""
   },
   {
     "id":4,
-    "name":"React Native",
-    "icon":""
+    "value":"React Native",
+    "image":""
   },
   {
     "id":5,
-    "name":"Node",
-    "icon":""
+    "value":"Node",
+    "image":""
   }
 ]
