@@ -19,8 +19,7 @@ function getBookByID(id) {
 
 module.exports = class extends Base {
   indexAction() {
-    const post = this.post();
-    const id = post.id;
+    const id = this.get('categoryID');
     try {
       const result = getBookByID(id);
       return this.success(result);
