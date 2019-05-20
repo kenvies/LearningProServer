@@ -1,0 +1,27 @@
+[
+  {
+    "id":1,
+    "name":"Android",
+    "icon":""
+  },
+  {
+    "id":2,
+    "name":"iOS",
+    "icon":""
+  },
+  {
+    "id":3,
+    "name":"React",
+    "icon":""
+  },
+  {
+    "id":4,
+    "name":"React Native",
+    "icon":""
+  },
+  {
+    "id":5,
+    "name":"Node",
+    "icon":""
+  }
+]
