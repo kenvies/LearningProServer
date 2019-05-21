@@ -2,26 +2,32 @@
   {
     "id":1,
     "value":"Android",
-    "image":""
+    "image":"http://prtz8sywr.bkt.clouddn.com/android.png"
   },
   {
     "id":2,
     "value":"iOS",
-    "image":""
+    "image":"http://prtz8sywr.bkt.clouddn.com/IOS.png"
   },
   {
     "id":3,
     "value":"React",
-    "image":""
+    "image":"http://prtz8sywr.bkt.clouddn.com/React.png"
   },
   {
     "id":4,
     "value":"React Native",
-    "image":""
+    "image":"http://prtz8sywr.bkt.clouddn.com/react-native.png"
   },
   {
     "id":5,
     "value":"Node",
-    "image":""
+    "image":"http://prtz8sywr.bkt.clouddn.com/Nodejs.png"
+  },
+  {
+    "id":5,
+    "value":"JS",
+    "image":"http://prtz8sywr.bkt.clouddn.com/nodejs-2.png"
   }
+  
 ]
