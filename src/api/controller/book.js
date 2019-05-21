@@ -12,6 +12,8 @@ function getBookByID(id) {
       return require('../../assets/rn.json');
     case '5':
       return require('../../assets/node.json');
+    case '6':
+      return require('../../assets/js.json');
     default:
       break;
   }

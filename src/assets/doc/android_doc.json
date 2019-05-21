@@ -1,0 +1,13 @@
+
+[
+  {
+    "id":1,
+    "h1":"",
+    "h2":"",
+    "h3":"",
+    "author":"",
+    "date":"",
+    "content":">Activity生命周期方法主要有onCreate()、onStart()、onResume()、onPause()、onStop()、onDestroy()和onRestart()等7个方法。",
+    "pic":""
+  }
+]

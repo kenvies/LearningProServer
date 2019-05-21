@@ -12,6 +12,8 @@ function getBookByID(id) {
       return require('../../assets/doc/rn_doc.json');
     case '5':
       return require('../../assets/doc/node_doc.json');
+    case '6':
+      return require('../../assets/doc/js_doc.json');
     default:
       break;
   }
@@ -33,6 +35,7 @@ module.exports = class extends Base {
       }
       return this.success(book);
     } catch (e) {
+      console.log(e)
       return this.fail('暂无次类目的试题哦');
     }
   }
